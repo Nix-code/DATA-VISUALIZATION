@@ -1,0 +1,9 @@
+DATA VISUALIZATION
+--> It is the way of exploring and representing data in the form of visual representation.
+we use matplotlib to plot the graphs and plots. It is one of the mathematical plotting library.
+It is used in various fields like genetics,climate research,economic analysis.
+
+
+
+1.)   PYPLOT
+pyplot contains large functions that helps to generate graphs and charts
